@@ -1,0 +1,8 @@
+<component name="CopyrightManager">
+  <settings default="Basit">
+    <module2copyright>
+      <element module="All" copyright="Basit" />
+      <element module="Production" copyright="Mobien" />
+    </module2copyright>
+  </settings>
+</component>
